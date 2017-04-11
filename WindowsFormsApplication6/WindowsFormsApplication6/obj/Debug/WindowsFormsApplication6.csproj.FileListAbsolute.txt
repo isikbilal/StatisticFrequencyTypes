@@ -1,0 +1,17 @@
+c:\users\halit\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+c:\users\halit\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+c:\users\halit\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+c:\users\halit\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+c:\users\halit\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+c:\users\halit\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+c:\users\halit\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+c:\users\halit\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+D:\BorCoFix\Okul\DERSLER\1.SINIF 2.DÖNEM\Olasılık ve İstatistik\1\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\BorCoFix\Okul\DERSLER\1.SINIF 2.DÖNEM\Olasılık ve İstatistik\1\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\BorCoFix\Okul\DERSLER\1.SINIF 2.DÖNEM\Olasılık ve İstatistik\1\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\BorCoFix\Okul\DERSLER\1.SINIF 2.DÖNEM\Olasılık ve İstatistik\1\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+D:\BorCoFix\Okul\DERSLER\1.SINIF 2.DÖNEM\Olasılık ve İstatistik\1\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+D:\BorCoFix\Okul\DERSLER\1.SINIF 2.DÖNEM\Olasılık ve İstatistik\1\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\BorCoFix\Okul\DERSLER\1.SINIF 2.DÖNEM\Olasılık ve İstatistik\1\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+D:\BorCoFix\Okul\DERSLER\1.SINIF 2.DÖNEM\Olasılık ve İstatistik\1\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\BorCoFix\Okul\DERSLER\1.SINIF 2.DÖNEM\Olasılık ve İstatistik\1\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
